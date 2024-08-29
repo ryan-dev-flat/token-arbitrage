@@ -10,8 +10,8 @@ pip install flask flask_sqlalchemy requests
 
 ##Create the Flask app structure:
 
-php
-Copy code
+##php
+
 crypto_arbitrage/
 ├── backend/
 │ ├── app.py
